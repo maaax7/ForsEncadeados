@@ -1,0 +1,6 @@
+C:\Users\maxwell.santos\Documents\Alura\ForsEncadeados\ForsEncadeados\bin\Debug\ForsEncadeados.exe.config
+C:\Users\maxwell.santos\Documents\Alura\ForsEncadeados\ForsEncadeados\bin\Debug\ForsEncadeados.exe
+C:\Users\maxwell.santos\Documents\Alura\ForsEncadeados\ForsEncadeados\bin\Debug\ForsEncadeados.pdb
+C:\Users\maxwell.santos\Documents\Alura\ForsEncadeados\ForsEncadeados\obj\Debug\ForsEncadeados.csprojResolveAssemblyReference.cache
+C:\Users\maxwell.santos\Documents\Alura\ForsEncadeados\ForsEncadeados\obj\Debug\ForsEncadeados.exe
+C:\Users\maxwell.santos\Documents\Alura\ForsEncadeados\ForsEncadeados\obj\Debug\ForsEncadeados.pdb
